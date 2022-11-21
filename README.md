@@ -11,14 +11,14 @@ There is currently a massive discrepancy in broadband speeds available to people
 
 # Project Phases and Milestones
 
-| Project Phase | Date          | Milestones     |
-| ------------- | ------------- | -------- |
-| Phase I - Fall Term     | 09/30/2022            | Team creation  |
-|      | 09/30/2022            | Teammates introduction |
-|      | 10/06/2022            | Created team standards  |
-|      | 10/13/2022            | Created problem statement  |
-|      | 10/20/2022            | Created requirements document  |
-|      | 11/03/2022            | Created design document draft  |
-|      | TBD            | Phase I TBD  |
-| Phase II - Winter Term   | TBD         | Phase II TBD - Team meeting recurring every Tuesday at noon  |
-| Phase III -  Spring Term   | TBD         | Phase III TBD- Team meeting recurring every Tuesday at noon  |
+| Project Phase           | Date          | Milestones  |
+| -------------------     | ------------- | -------- |
+| Phase I - Fall Term     | 09/30/2022    | Team creation  |
+|                         | 09/30/2022    | Teammates introduction |
+|                         | 10/06/2022    | Created team standards  |
+|                         | 10/13/2022    | Created problem statement  |
+|                         | 10/20/2022    | Created requirements document  |
+|                         | 11/03/2022    | Created design document draft  |
+|                         | TBD           | Phase I TBD  |
+| Phase II - Winter Term  | TBD           | Phase II TBD - Team meeting recurring every Tuesday at noon  |
+| Phase III - Spring Term | TBD           | Phase III TBD- Team meeting recurring every Tuesday at noon  |
