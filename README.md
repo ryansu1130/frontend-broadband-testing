@@ -13,6 +13,7 @@ There is currently a massive discrepancy in broadband speeds available to people
 
 | Project Phase | Date          | Milestones     |
 | ------------- | ------------- | -------- |
-| Phase I - Fall Term     | TBD         | NewYork  |
+| Phase I - Fall Term     | 09/30/2022            | Team creation  |
+|      | 09/30/2022            | Teammates introduction  |
 | Phase II - Winter Term   | TBD         | Phase II TBD - Team meeting recurring every Tuesday at noon  |
 | Phase III -  Spring Term   | TBD         | Phase III TBD- Team meeting recurring every Tuesday at noon  |
