@@ -53,6 +53,7 @@ table {
   height: 100vh;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 .innerContainer{
@@ -66,7 +67,7 @@ table {
 {
   font-size: 3rem;
   margin-top: 50px;
-  margin-left: 50px;
+  text-align: center;
 }
 
 .innerContainer input{
@@ -92,7 +93,7 @@ table {
   height: 30px;
   width: 100px;
   margin-top: 20px;
-  margin-left: 100px;
+  /* margin-left: 100px; */
   cursor: pointer;
 }
 
@@ -101,5 +102,5 @@ table {
   color: gray;
   text-decoration: underline;
   margin-top: 120px;
-  margin-left: 130px;
+  text-align: center;
 }
