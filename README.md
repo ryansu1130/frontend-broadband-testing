@@ -1,4 +1,4 @@
-# Frontend Broadband Testing Web Application
+# Full-stack Cloud Broadband Testing Web Application
 
 A project for CS46x Capstone.  
 Author: Ryan Su, Samuel Tran, Andrew Alexandrescu  
